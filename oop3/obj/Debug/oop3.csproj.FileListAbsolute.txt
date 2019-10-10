@@ -1,0 +1,9 @@
+C:\Users\anna2\source\repos\oop3\oop3\bin\Debug\oop3.exe.config
+C:\Users\anna2\source\repos\oop3\oop3\bin\Debug\oop3.exe
+C:\Users\anna2\source\repos\oop3\oop3\bin\Debug\oop3.pdb
+C:\Users\anna2\source\repos\oop3\oop3\obj\Debug\oop3.csprojAssemblyReference.cache
+C:\Users\anna2\source\repos\oop3\oop3\obj\Debug\oop3.Form1.resources
+C:\Users\anna2\source\repos\oop3\oop3\obj\Debug\oop3.Properties.Resources.resources
+C:\Users\anna2\source\repos\oop3\oop3\obj\Debug\oop3.csproj.GenerateResource.cache
+C:\Users\anna2\source\repos\oop3\oop3\obj\Debug\oop3.exe
+C:\Users\anna2\source\repos\oop3\oop3\obj\Debug\oop3.pdb
